@@ -1,0 +1,1131 @@
+Apr 12, 2017 12:06:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:42:956 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:06:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:43:888 PM] : Peer 1001 is connected from Peer 1002.
+
+Apr 12, 2017 12:06:45 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:45:912 PM] : Peer [1001] received the 'not interested' message from [1002]
+
+Apr 12, 2017 12:06:51 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:51:202 PM] : Peer 1001 is connected from Peer 1003.
+
+Apr 12, 2017 12:06:53 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:53:215 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:54:267 PM] : Peer [1001] received the 'have' message from [1003] for the piece 68
+
+Apr 12, 2017 12:06:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:54:268 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:54:956 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:06:55 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:55:548 PM] : Peer [1001] received the 'have' message from [1003] for the piece 39
+
+Apr 12, 2017 12:06:55 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:55:549 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:56:552 PM] : Peer [1001] received the 'have' message from [1003] for the piece 49
+
+Apr 12, 2017 12:06:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:56:621 PM] : Peer [1001] received the 'have' message from [1003] for the piece 89
+
+Apr 12, 2017 12:06:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:56:624 PM] : Peer [1001] received the 'have' message from [1003] for the piece 10
+
+Apr 12, 2017 12:06:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:56:625 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:57:631 PM] : Peer [1001] received the 'have' message from [1003] for the piece 64
+
+Apr 12, 2017 12:06:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:57:635 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:58:638 PM] : Peer [1001] received the 'have' message from [1003] for the piece 115
+
+Apr 12, 2017 12:06:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:58:640 PM] : Peer [1001] received the 'have' message from [1003] for the piece 2
+
+Apr 12, 2017 12:06:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:58:641 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:06:59 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:59:649 PM] : Peer [1001] received the 'have' message from [1003] for the piece 58
+
+Apr 12, 2017 12:06:59 PM P2PLogger log
+INFO: [12 Apr 2017 12:06:59:650 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:00:653 PM] : Peer [1001] received the 'have' message from [1003] for the piece 16
+
+Apr 12, 2017 12:07:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:00:654 PM] : Peer [1001] received the 'have' message from [1003] for the piece 46
+
+Apr 12, 2017 12:07:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:00:655 PM] : Peer [1001] received the 'have' message from [1003] for the piece 23
+
+Apr 12, 2017 12:07:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:00:656 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:01 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:01:662 PM] : Peer [1001] received the 'have' message from [1003] for the piece 8
+
+Apr 12, 2017 12:07:01 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:01:663 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:02:670 PM] : Peer [1001] received the 'have' message from [1003] for the piece 1
+
+Apr 12, 2017 12:07:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:02:671 PM] : Peer [1001] received the 'have' message from [1003] for the piece 26
+
+Apr 12, 2017 12:07:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:02:672 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:02:741 PM] : Peer 1001 is connected from Peer 1004.
+
+Apr 12, 2017 12:07:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:02:956 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:07:03 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:03:681 PM] : Peer [1001] received the 'have' message from [1003] for the piece 63
+
+Apr 12, 2017 12:07:04 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:04:786 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:05:824 PM] : Peer [1001] received the 'have' message from [1004] for the piece 1
+
+Apr 12, 2017 12:07:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:05:825 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:450 PM] : Peer [1001] is unchoked by [1003]
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:832 PM] : Peer [1001] received the 'have' message from [1004] for the piece 66
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:833 PM] : Peer [1001] received the 'have' message from [1004] for the piece 95
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:834 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:940 PM] : Peer [1001] received the 'have' message from [1003] for the piece 21
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:958 PM] : Peer [1001] has the optimistically unchoked neighbor [1003]
+
+Apr 12, 2017 12:07:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:06:959 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:07:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:07:839 PM] : Peer [1001] received the 'have' message from [1004] for the piece 117
+
+Apr 12, 2017 12:07:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:07:840 PM] : Peer [1001] received the 'have' message from [1004] for the piece 47
+
+Apr 12, 2017 12:07:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:07:841 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:07:955 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:07:08 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:08:639 PM] : Peer [1001] received the 'have' message from [1003] for the piece 76
+
+Apr 12, 2017 12:07:08 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:08:849 PM] : Peer [1001] received the 'have' message from [1004] for the piece 67
+
+Apr 12, 2017 12:07:08 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:08:850 PM] : Peer [1001] received the 'have' message from [1004] for the piece 109
+
+Apr 12, 2017 12:07:08 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:08:851 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:09 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:09:859 PM] : Peer [1001] received the 'have' message from [1004] for the piece 111
+
+Apr 12, 2017 12:07:09 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:09:860 PM] : Peer [1001] received the 'have' message from [1004] for the piece 11
+
+Apr 12, 2017 12:07:09 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:09:861 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:10 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:10:865 PM] : Peer [1001] received the 'have' message from [1004] for the piece 119
+
+Apr 12, 2017 12:07:10 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:10:866 PM] : Peer [1001] received the 'have' message from [1004] for the piece 6
+
+Apr 12, 2017 12:07:10 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:10:866 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:11 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:11:870 PM] : Peer [1001] received the 'have' message from [1004] for the piece 40
+
+Apr 12, 2017 12:07:11 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:11:871 PM] : Peer [1001] received the 'have' message from [1004] for the piece 49
+
+Apr 12, 2017 12:07:11 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:11:872 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:12:880 PM] : Peer [1001] received the 'have' message from [1004] for the piece 17
+
+Apr 12, 2017 12:07:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:12:881 PM] : Peer [1001] received the 'have' message from [1004] for the piece 13
+
+Apr 12, 2017 12:07:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:12:882 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:12:957 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:12:983 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:888 PM] : Peer [1001] received the 'have' message from [1004] for the piece 4
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:889 PM] : Peer [1001] received the 'have' message from [1004] for the piece 25
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:889 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:986 PM] : Peer [1001] received the 'have' message from [1003] for the piece 25
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:987 PM] : Peer [1001] received the 'have' message from [1003] for the piece 35
+
+Apr 12, 2017 12:07:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:13:987 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:14:897 PM] : Peer [1001] received the 'have' message from [1004] for the piece 60
+
+Apr 12, 2017 12:07:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:14:897 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:14:994 PM] : Peer [1001] received the 'have' message from [1003] for the piece 48
+
+Apr 12, 2017 12:07:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:14:995 PM] : Peer [1001] received the 'have' message from [1003] for the piece 73
+
+Apr 12, 2017 12:07:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:14:995 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:15:906 PM] : Peer [1001] received the 'have' message from [1004] for the piece 38
+
+Apr 12, 2017 12:07:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:15:906 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:003 PM] : Peer [1001] received the 'have' message from [1003] for the piece 43
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:346 PM] : Peer [1001] received the 'have' message from [1003] for the piece 55
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:347 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:910 PM] : Peer [1001] received the 'have' message from [1004] for the piece 35
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:911 PM] : Peer [1001] received the 'have' message from [1004] for the piece 28
+
+Apr 12, 2017 12:07:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:16:911 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:352 PM] : Peer [1001] received the 'have' message from [1003] for the piece 36
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:529 PM] : Peer [1001] received the 'have' message from [1003] for the piece 109
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:529 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:916 PM] : Peer [1001] received the 'have' message from [1004] for the piece 48
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:917 PM] : Peer [1001] received the 'have' message from [1004] for the piece 18
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:917 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:17:952 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:07:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:18:535 PM] : Peer [1001] received the 'have' message from [1003] for the piece 65
+
+Apr 12, 2017 12:07:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:18:539 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:18:954 PM] : Peer [1001] has the optimistically unchoked neighbor [1004]
+
+Apr 12, 2017 12:07:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:18:955 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:07:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:18:967 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:19:542 PM] : Peer [1001] received the 'have' message from [1003] for the piece 114
+
+Apr 12, 2017 12:07:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:19:542 PM] : Peer [1001] received the 'have' message from [1003] for the piece 6
+
+Apr 12, 2017 12:07:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:19:543 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:19:974 PM] : Peer [1001] received the 'have' message from [1004] for the piece 59
+
+Apr 12, 2017 12:07:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:19:975 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:20:547 PM] : Peer [1001] received the 'have' message from [1003] for the piece 11
+
+Apr 12, 2017 12:07:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:20:547 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:20:978 PM] : Peer [1001] received the 'have' message from [1004] for the piece 88
+
+Apr 12, 2017 12:07:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:20:978 PM] : Peer [1001] received the 'have' message from [1004] for the piece 114
+
+Apr 12, 2017 12:07:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:20:978 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:21:554 PM] : Peer [1001] received the 'have' message from [1003] for the piece 77
+
+Apr 12, 2017 12:07:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:21:554 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:21:985 PM] : Peer [1001] received the 'have' message from [1004] for the piece 98
+
+Apr 12, 2017 12:07:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:21:985 PM] : Peer [1001] received the 'have' message from [1004] for the piece 80
+
+Apr 12, 2017 12:07:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:21:986 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:557 PM] : Peer [1001] received the 'have' message from [1003] for the piece 82
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:558 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:952 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:990 PM] : Peer [1001] received the 'have' message from [1004] for the piece 0
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:990 PM] : Peer [1001] received the 'have' message from [1004] for the piece 31
+
+Apr 12, 2017 12:07:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:22:991 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:23 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:23:565 PM] : Peer [1001] received the 'have' message from [1003] for the piece 42
+
+Apr 12, 2017 12:07:23 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:23:565 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:23 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:23:996 PM] : Peer [1001] received the 'have' message from [1004] for the piece 10
+
+Apr 12, 2017 12:07:23 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:23:997 PM] : Peer [1001] received the 'have' message from [1004] for the piece 29
+
+Apr 12, 2017 12:07:23 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:23:997 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:24 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:24:571 PM] : Peer [1001] received the 'have' message from [1003] for the piece 108
+
+Apr 12, 2017 12:07:24 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:24:572 PM] : Peer [1001] received the 'have' message from [1003] for the piece 81
+
+Apr 12, 2017 12:07:24 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:24:572 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:25 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:25:003 PM] : Peer [1001] received the 'have' message from [1004] for the piece 24
+
+Apr 12, 2017 12:07:25 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:25:004 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:25 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:25:581 PM] : Peer [1001] received the 'have' message from [1003] for the piece 117
+
+Apr 12, 2017 12:07:25 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:25:582 PM] : Peer [1001] received the 'have' message from [1003] for the piece 83
+
+Apr 12, 2017 12:07:25 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:25:582 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:26 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:26:009 PM] : Peer [1001] received the 'have' message from [1004] for the piece 65
+
+Apr 12, 2017 12:07:26 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:26:009 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:26 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:26:591 PM] : Peer [1001] received the 'have' message from [1003] for the piece 60
+
+Apr 12, 2017 12:07:26 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:26:591 PM] : Peer [1001] received the 'have' message from [1003] for the piece 54
+
+Apr 12, 2017 12:07:26 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:26:592 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:016 PM] : Peer [1001] received the 'have' message from [1004] for the piece 54
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:017 PM] : Peer [1001] received the 'have' message from [1004] for the piece 15
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:017 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:600 PM] : Peer [1001] received the 'have' message from [1003] for the piece 93
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:600 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:27:955 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:28 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:28:024 PM] : Peer [1001] received the 'have' message from [1004] for the piece 75
+
+Apr 12, 2017 12:07:28 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:28:025 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:28 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:28:605 PM] : Peer [1001] received the 'have' message from [1003] for the piece 78
+
+Apr 12, 2017 12:07:28 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:28:606 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:29:030 PM] : Peer [1001] received the 'have' message from [1004] for the piece 43
+
+Apr 12, 2017 12:07:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:29:030 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:29:612 PM] : Peer [1001] received the 'have' message from [1003] for the piece 104
+
+Apr 12, 2017 12:07:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:29:612 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:30:035 PM] : Peer [1001] received the 'have' message from [1004] for the piece 94
+
+Apr 12, 2017 12:07:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:30:036 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:30:618 PM] : Peer [1001] received the 'have' message from [1003] for the piece 75
+
+Apr 12, 2017 12:07:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:30:619 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:30:954 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:07:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:31:042 PM] : Peer [1001] received the 'have' message from [1004] for the piece 82
+
+Apr 12, 2017 12:07:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:31:043 PM] : Peer [1001] received the 'have' message from [1004] for the piece 42
+
+Apr 12, 2017 12:07:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:31:044 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:31:622 PM] : Peer [1001] received the 'have' message from [1003] for the piece 101
+
+Apr 12, 2017 12:07:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:31:622 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:050 PM] : Peer [1001] received the 'have' message from [1004] for the piece 63
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:050 PM] : Peer [1001] received the 'have' message from [1004] for the piece 77
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:050 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:627 PM] : Peer [1001] received the 'have' message from [1003] for the piece 20
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:627 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:32:955 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:33:057 PM] : Peer [1001] received the 'have' message from [1004] for the piece 51
+
+Apr 12, 2017 12:07:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:33:058 PM] : Peer [1001] received the 'have' message from [1004] for the piece 89
+
+Apr 12, 2017 12:07:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:33:058 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:33:631 PM] : Peer [1001] received the 'have' message from [1003] for the piece 17
+
+Apr 12, 2017 12:07:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:33:631 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:34:062 PM] : Peer [1001] received the 'have' message from [1004] for the piece 96
+
+Apr 12, 2017 12:07:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:34:063 PM] : Peer [1001] received the 'have' message from [1004] for the piece 86
+
+Apr 12, 2017 12:07:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:34:063 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:34:636 PM] : Peer [1001] received the 'have' message from [1003] for the piece 112
+
+Apr 12, 2017 12:07:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:34:637 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:35:071 PM] : Peer [1001] received the 'have' message from [1004] for the piece 26
+
+Apr 12, 2017 12:07:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:35:072 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:35:642 PM] : Peer [1001] received the 'have' message from [1003] for the piece 88
+
+Apr 12, 2017 12:07:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:35:643 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:36 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:36:077 PM] : Peer [1001] received the 'have' message from [1004] for the piece 30
+
+Apr 12, 2017 12:07:36 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:36:078 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:36 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:36:645 PM] : Peer [1001] received the 'have' message from [1003] for the piece 47
+
+Apr 12, 2017 12:07:36 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:36:646 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:37:082 PM] : Peer [1001] received the 'have' message from [1004] for the piece 74
+
+Apr 12, 2017 12:07:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:37:083 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:37:652 PM] : Peer [1001] received the 'have' message from [1003] for the piece 32
+
+Apr 12, 2017 12:07:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:37:653 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:37:953 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:38 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:38:091 PM] : Peer [1001] received the 'have' message from [1004] for the piece 50
+
+Apr 12, 2017 12:07:38 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:38:092 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:38 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:38:657 PM] : Peer [1001] received the 'have' message from [1003] for the piece 38
+
+Apr 12, 2017 12:07:38 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:38:657 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:39 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:39:100 PM] : Peer [1001] received the 'have' message from [1004] for the piece 2
+
+Apr 12, 2017 12:07:39 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:39:100 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:39 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:39:665 PM] : Peer [1001] received the 'have' message from [1003] for the piece 67
+
+Apr 12, 2017 12:07:39 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:39:665 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:40 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:40:105 PM] : Peer [1001] received the 'have' message from [1004] for the piece 78
+
+Apr 12, 2017 12:07:40 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:40:106 PM] : Peer [1001] received the 'have' message from [1004] for the piece 32
+
+Apr 12, 2017 12:07:40 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:40:106 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:40 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:40:671 PM] : Peer [1001] received the 'have' message from [1003] for the piece 18
+
+Apr 12, 2017 12:07:40 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:40:671 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:41 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:41:110 PM] : Peer [1001] received the 'have' message from [1004] for the piece 19
+
+Apr 12, 2017 12:07:41 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:41:111 PM] : Peer [1001] received the 'have' message from [1004] for the piece 56
+
+Apr 12, 2017 12:07:41 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:41:111 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:41 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:41:677 PM] : Peer [1001] received the 'have' message from [1003] for the piece 79
+
+Apr 12, 2017 12:07:41 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:41:678 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:116 PM] : Peer [1001] received the 'have' message from [1004] for the piece 107
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:116 PM] : Peer [1001] received the 'have' message from [1004] for the piece 41
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:116 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:685 PM] : Peer [1001] received the 'have' message from [1003] for the piece 15
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:685 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:957 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:07:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:42:957 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:07:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:43:123 PM] : Peer [1001] received the 'have' message from [1004] for the piece 33
+
+Apr 12, 2017 12:07:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:43:123 PM] : Peer [1001] received the 'have' message from [1004] for the piece 5
+
+Apr 12, 2017 12:07:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:43:124 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:43:693 PM] : Peer [1001] received the 'have' message from [1003] for the piece 118
+
+Apr 12, 2017 12:07:43 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:43:694 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:44 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:44:128 PM] : Peer [1001] received the 'have' message from [1004] for the piece 102
+
+Apr 12, 2017 12:07:44 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:44:702 PM] : Peer [1001] received the 'have' message from [1003] for the piece 34
+
+Apr 12, 2017 12:07:44 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:44:702 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:45 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:45:711 PM] : Peer [1001] received the 'have' message from [1003] for the piece 9
+
+Apr 12, 2017 12:07:45 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:45:712 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:46 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:46:720 PM] : Peer [1001] received the 'have' message from [1003] for the piece 102
+
+Apr 12, 2017 12:07:46 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:46:720 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:47 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:47:726 PM] : Peer [1001] received the 'have' message from [1003] for the piece 87
+
+Apr 12, 2017 12:07:47 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:47:726 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:47 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:47:956 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:07:48 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:48:730 PM] : Peer [1001] received the 'have' message from [1003] for the piece 5
+
+Apr 12, 2017 12:07:48 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:48:731 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:49 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:49:734 PM] : Peer [1001] received the 'have' message from [1003] for the piece 66
+
+Apr 12, 2017 12:07:49 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:49:734 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:50 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:50:739 PM] : Peer [1001] received the 'have' message from [1003] for the piece 52
+
+Apr 12, 2017 12:07:50 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:50:740 PM] : Peer [1001] received the 'have' message from [1003] for the piece 86
+
+Apr 12, 2017 12:07:50 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:50:740 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:51 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:51:746 PM] : Peer [1001] received the 'have' message from [1003] for the piece 98
+
+Apr 12, 2017 12:07:51 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:51:746 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:52 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:52:751 PM] : Peer [1001] received the 'have' message from [1003] for the piece 3
+
+Apr 12, 2017 12:07:52 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:52:751 PM] : Peer [1001] received the 'have' message from [1003] for the piece 44
+
+Apr 12, 2017 12:07:52 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:52:751 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:52 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:52:957 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:07:53 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:53:753 PM] : Peer [1001] received the 'have' message from [1003] for the piece 45
+
+Apr 12, 2017 12:07:53 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:53:754 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:53 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:53:785 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:54:758 PM] : Peer [1001] received the 'have' message from [1003] for the piece 41
+
+Apr 12, 2017 12:07:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:54:759 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:54:789 PM] : Peer [1001] received the 'have' message from [1004] for the piece 9
+
+Apr 12, 2017 12:07:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:54:789 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:54 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:54:956 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:07:55 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:55:795 PM] : Peer [1001] received the 'have' message from [1004] for the piece 99
+
+Apr 12, 2017 12:07:55 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:55:796 PM] : Peer [1001] received the 'have' message from [1004] for the piece 72
+
+Apr 12, 2017 12:07:55 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:55:798 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:56:250 PM] : Peer [1001] received the 'have' message from [1003] for the piece 28
+
+Apr 12, 2017 12:07:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:56:251 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:56:807 PM] : Peer [1001] received the 'have' message from [1004] for the piece 14
+
+Apr 12, 2017 12:07:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:56:808 PM] : Peer [1001] received the 'have' message from [1004] for the piece 53
+
+Apr 12, 2017 12:07:56 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:56:809 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:302 PM] : Peer [1001] received the 'have' message from [1003] for the piece 22
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:302 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:813 PM] : Peer [1001] received the 'have' message from [1004] for the piece 36
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:814 PM] : Peer [1001] received the 'have' message from [1004] for the piece 115
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:815 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:07:57 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:57:956 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:07:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:58:362 PM] : Peer [1001] received the 'have' message from [1003] for the piece 94
+
+Apr 12, 2017 12:07:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:58:362 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:07:58 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:58:822 PM] : Peer [1001] received the 'have' message from [1004] for the piece 8
+
+Apr 12, 2017 12:07:59 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:59:410 PM] : Peer [1001] received the 'have' message from [1003] for the piece 57
+
+Apr 12, 2017 12:07:59 PM P2PLogger log
+INFO: [12 Apr 2017 12:07:59:410 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:00:443 PM] : Peer [1001] received the 'have' message from [1003] for the piece 53
+
+Apr 12, 2017 12:08:00 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:00:443 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:01 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:01:461 PM] : Peer [1001] received the 'have' message from [1003] for the piece 119
+
+Apr 12, 2017 12:08:01 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:01:461 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:02:468 PM] : Peer [1001] received the 'have' message from [1003] for the piece 95
+
+Apr 12, 2017 12:08:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:02:855 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:02 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:02:956 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:08:03 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:03:860 PM] : Peer [1001] received the 'have' message from [1003] for the piece 51
+
+Apr 12, 2017 12:08:03 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:03:867 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:03 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:03:949 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:04 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:04:871 PM] : Peer [1001] received the 'have' message from [1004] for the piece 108
+
+Apr 12, 2017 12:08:04 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:04:872 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:04 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:04:955 PM] : Peer [1001] received the 'have' message from [1003] for the piece 113
+
+Apr 12, 2017 12:08:04 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:04:956 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:05:879 PM] : Peer [1001] received the 'have' message from [1004] for the piece 69
+
+Apr 12, 2017 12:08:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:05:880 PM] : Peer [1001] received the 'have' message from [1004] for the piece 87
+
+Apr 12, 2017 12:08:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:05:880 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:05:963 PM] : Peer [1001] received the 'have' message from [1003] for the piece 62
+
+Apr 12, 2017 12:08:05 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:05:963 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:883 PM] : Peer [1001] received the 'have' message from [1004] for the piece 101
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:884 PM] : Peer [1001] received the 'have' message from [1004] for the piece 44
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:884 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:955 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:967 PM] : Peer [1001] received the 'have' message from [1003] for the piece 97
+
+Apr 12, 2017 12:08:06 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:06:968 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:07:890 PM] : Peer [1001] received the 'have' message from [1004] for the piece 100
+
+Apr 12, 2017 12:08:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:07:891 PM] : Peer [1001] received the 'have' message from [1004] for the piece 97
+
+Apr 12, 2017 12:08:07 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:07:954 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:08:08 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:08:370 PM] : Peer [1001] received the 'have' message from [1004] for the piece 91
+
+Apr 12, 2017 12:08:09 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:09:430 PM] : Peer [1001] received the 'have' message from [1004] for the piece 85
+
+Apr 12, 2017 12:08:10 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:10:682 PM] : Peer [1001] received the 'have' message from [1004] for the piece 12
+
+Apr 12, 2017 12:08:11 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:11:935 PM] : Peer [1001] received the 'have' message from [1004] for the piece 16
+
+Apr 12, 2017 12:08:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:12:563 PM] : Peer [1001] received the 'have' message from [1004] for the piece 34
+
+Apr 12, 2017 12:08:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:12:956 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:08:12 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:12:976 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:13 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:13:441 PM] : Peer [1001] received the 'have' message from [1004] for the piece 105
+
+Apr 12, 2017 12:08:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:14:124 PM] : Peer [1001] received the 'have' message from [1003] for the piece 90
+
+Apr 12, 2017 12:08:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:14:124 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:14:132 PM] : Peer [1001] received the 'have' message from [1004] for the piece 90
+
+Apr 12, 2017 12:08:14 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:14:455 PM] : Peer [1001] received the 'have' message from [1004] for the piece 103
+
+Apr 12, 2017 12:08:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:15:251 PM] : Peer [1001] received the 'have' message from [1003] for the piece 106
+
+Apr 12, 2017 12:08:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:15:629 PM] : Peer [1001] received the 'have' message from [1004] for the piece 93
+
+Apr 12, 2017 12:08:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:15:640 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:15 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:15:696 PM] : Peer [1001] received the 'have' message from [1004] for the piece 46
+
+Apr 12, 2017 12:08:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:16:645 PM] : Peer [1001] received the 'have' message from [1003] for the piece 105
+
+Apr 12, 2017 12:08:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:16:646 PM] : Peer [1001] received the 'have' message from [1003] for the piece 33
+
+Apr 12, 2017 12:08:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:16:646 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:16 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:16:711 PM] : Peer [1001] received the 'have' message from [1004] for the piece 71
+
+Apr 12, 2017 12:08:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:17:653 PM] : Peer [1001] received the 'have' message from [1003] for the piece 103
+
+Apr 12, 2017 12:08:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:17:653 PM] : Peer [1001] received the 'have' message from [1003] for the piece 70
+
+Apr 12, 2017 12:08:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:17:653 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:17:729 PM] : Peer [1001] received the 'have' message from [1004] for the piece 84
+
+Apr 12, 2017 12:08:17 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:17:956 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:08:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:18:659 PM] : Peer [1001] received the 'have' message from [1003] for the piece 19
+
+Apr 12, 2017 12:08:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:18:702 PM] : Peer [1001] received the 'have' message from [1004] for the piece 113
+
+Apr 12, 2017 12:08:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:18:957 PM] : Peer [1001] has the optimistically unchoked neighbor [1003]
+
+Apr 12, 2017 12:08:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:18:957 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:08:18 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:18:971 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:19:770 PM] : Peer [1001] received the 'have' message from [1004] for the piece 7
+
+Apr 12, 2017 12:08:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:19:975 PM] : Peer [1001] received the 'have' message from [1003] for the piece 85
+
+Apr 12, 2017 12:08:19 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:19:975 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:20:715 PM] : Peer [1001] received the 'have' message from [1004] for the piece 64
+
+Apr 12, 2017 12:08:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:20:985 PM] : Peer [1001] received the 'have' message from [1003] for the piece 69
+
+Apr 12, 2017 12:08:20 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:20:985 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:21:962 PM] : Peer [1001] received the 'have' message from [1004] for the piece 112
+
+Apr 12, 2017 12:08:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:21:991 PM] : Peer [1001] received the 'have' message from [1003] for the piece 91
+
+Apr 12, 2017 12:08:21 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:21:991 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:22:841 PM] : Peer [1001] received the 'have' message from [1004] for the piece 27
+
+Apr 12, 2017 12:08:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:22:954 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:08:22 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:22:998 PM] : Peer [1001] received the 'have' message from [1003] for the piece 14
+
+Apr 12, 2017 12:08:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:27:958 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:08:27 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:27:970 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:29:084 PM] : Peer [1001] received the 'have' message from [1003] for the piece 80
+
+Apr 12, 2017 12:08:29 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:29:084 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:30:173 PM] : Peer [1001] received the 'have' message from [1003] for the piece 59
+
+Apr 12, 2017 12:08:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:30:173 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:30:960 PM] : Peer [1001] has the optimistically unchoked neighbor [1004]
+
+Apr 12, 2017 12:08:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:30:960 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:08:30 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:30:966 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:31:267 PM] : Peer [1001] received the 'have' message from [1003] for the piece 40
+
+Apr 12, 2017 12:08:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:31:268 PM] : Peer [1001] received the 'have' message from [1003] for the piece 56
+
+Apr 12, 2017 12:08:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:31:268 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:31:969 PM] : Peer [1001] received the 'have' message from [1004] for the piece 57
+
+Apr 12, 2017 12:08:31 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:31:970 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:378 PM] : Peer [1001] received the 'have' message from [1003] for the piece 100
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:379 PM] : Peer [1001] received the 'have' message from [1003] for the piece 13
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:379 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:958 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:977 PM] : Peer [1001] received the 'have' message from [1004] for the piece 81
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:977 PM] : Peer [1001] received the 'have' message from [1004] for the piece 21
+
+Apr 12, 2017 12:08:32 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:32:978 PM] : Peer [1001] received the 'interested' message from [1004]
+
+Apr 12, 2017 12:08:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:33:444 PM] : Peer [1001] received the 'have' message from [1003] for the piece 110
+
+Apr 12, 2017 12:08:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:33:445 PM] : Peer [1001] received the 'have' message from [1003] for the piece 61
+
+Apr 12, 2017 12:08:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:33:445 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:33 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:33:981 PM] : Peer [1001] received the 'have' message from [1004] for the piece 79
+
+Apr 12, 2017 12:08:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:34:541 PM] : Peer [1001] received the 'have' message from [1003] for the piece 116
+
+Apr 12, 2017 12:08:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:34:541 PM] : Peer [1001] received the 'have' message from [1003] for the piece 37
+
+Apr 12, 2017 12:08:34 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:34:541 PM] : Peer [1001] received the 'interested' message from [1003]
+
+Apr 12, 2017 12:08:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:35:625 PM] : Peer [1001] received the 'have' message from [1003] for the piece 107
+
+Apr 12, 2017 12:08:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:35:625 PM] : Peer [1001] received the 'have' message from [1003] for the piece 27
+
+Apr 12, 2017 12:08:35 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:35:651 PM] : Peer [1001] received the 'have' message from [1003] for the piece 0
+
+Apr 12, 2017 12:08:36 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:36:692 PM] : Peer [1001] received the 'have' message from [1003] for the piece 84
+
+Apr 12, 2017 12:08:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:37:942 PM] : Peer [1001] received the 'have' message from [1003] for the piece 12
+
+Apr 12, 2017 12:08:37 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:37:958 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:08:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:42:959 PM] : Peer [1001] has the optimistically unchoked neighbor [1003]
+
+Apr 12, 2017 12:08:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:42:960 PM] : Peer [1001] has the preferred neighbors [1003, 1004]
+
+Apr 12, 2017 12:08:42 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:42:960 PM] : Peer [1001] has downloaded the complete file.
+
+Apr 12, 2017 12:08:47 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:47:959 PM] : Peer [1001] has the preferred neighbors [1002, 1004]
+
+Apr 12, 2017 12:08:52 PM P2PLogger log
+INFO: [12 Apr 2017 12:08:52:956 PM] : Peer [1001] has the preferred neighbors [1002, 1003]
+
